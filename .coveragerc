@@ -1,0 +1,3 @@
+[run]
+source = apis_in_pyramid
+omit = apis_in_pyramid/test*
